@@ -42,3 +42,7 @@ li a {
 a:hover {
   background: rgb(86, 118, 86);
 }
+
+h3 {
+  color: blue;
+}
