@@ -46,3 +46,10 @@ a:hover {
 h3 {
   color: blue;
 }
+
+.container {
+  align-content: center;
+}
+
+.social {
+}
